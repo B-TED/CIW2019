@@ -1,14 +1,14 @@
 # Fdb version 3
-["dvipdf"] 1545427873 "sec3.dvi" "sec3.pdf" "sec3" 1545427874
-  "sec3.dvi" 1545427872 8032 0259ff05299298fc631a420ea80cbe4e "latex"
+["dvipdf"] 1545429457 "sec3.dvi" "sec3.pdf" "sec3" 1545429458
+  "sec3.dvi" 1545429457 948 5fb52cb48d5f95747fbf6d143d68745b "latex"
   (generated)
   "sec3.pdf"
-["latex"] 1545427872 "sec3.tex" "sec3.dvi" "sec3" 1545427874
+["latex"] 1545429457 "sec3.tex" "sec3.dvi" "sec3" 1545429458
   "/usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1522066949 33362 cf75436e19743e94a92a6b1b9183c434 ""
   "/usr/local/texlive/2018/texmf-var/web2c/euptex/uplatex.fmt" 1538238503 4476416 fa4e5c44c3f5ac529523333a28c2daab ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "sec3.aux" 1545427202 8 a94a2480d3289e625eea47cd1b285758 ""
-  "sec3.tex" 1545427872 10547 be71909b0dcce85d7eac1602a54d2053 ""
+  "sec3.tex" 1545429457 10646 1a3342a3e3fedafd487ed5fffce78c12 ""
   (generated)
-  "sec3.dvi"
   "sec3.log"
+  "sec3.dvi"

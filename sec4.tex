@@ -1,13 +1,11 @@
 \section{Reconsidering governance and security management}
 \subsection{Threat modeling and security requirements}
 \setcounter{figure}{2}
-
 In parallel to the investigation by JFSA, we conducted making a document on security management of cryptocurrency exchange right after the CoinCheck incident.
 % One of the author of this paper is a member of this group.
 %The purpose of the study is collecting practices of constructing and operating the cryptocurrency exchange.
 %
 Even now, there is no standardized architecture and implementation of software/hardware for cryptocurrency exchange. Therefore, we cannot edit one standard document toward secure implementation and operation of cryptocurrency exchange. The group gathered information of real cryptocurrency exchanges from their engineers, then create a model of cryptocurrency exchange system. Fig.~\ref{fig_system_model}. shows an example of system model of cryptocurrency exchange.
-
 % \begin{figure}
 %  \begin{center}
 %   \includegraphics[width=8cm,pagebox=cropbox,clip]{system_model.pdf}
@@ -23,7 +21,6 @@ Even now, there is no standardized architecture and implementation of software/h
 %   \label{key_lifecycle}
 %  \end{center}
 % \end{figure}
-
 \begin{figure}[htbp]
   \begin{tabular}{cc}
     \begin{minipage}{0.5\hsize}
@@ -44,11 +41,10 @@ Even now, there is no standardized architecture and implementation of software/h
 \end{figure}
 
 
-The model consists of Customer Interface for UI for login and transaction, Customer Authentication Function, Customer Credential Database, Customer Assets Management Function, Blockchain Node for incoming transactions, Incoming transaction management Function, Order processing function, Assets Database, Transaction Singing Function for outgoing transactions, Exchange Operation Modules, Operator Authentication Function and Operator Audit Database. Details are described in Appendix~\ref{appendix_system_model}
-
+The model consists of Customer Interface for UI for login and transaction, Customer Authentication Function, Customer Credential Database, Customer Assets Management Function, Blockchain Node for incoming transactions, Incoming transaction management Function, Order processing function, Assets Database, Transaction Singing Function for outgoing transactions, Exchange Operation Modules, Operator Authentication Function and Operator Audit Database.
+%Details are described in Appendix~\ref{appendix_system_model}
 We defined each functional element to distinguish functions logically, and do not show the actual arrangement on the actual system.
 %For example, in our actual system, address management unit may be managed by an integrated database. Also, there are implementations with multiple functions packaged together. For example, each functional element of the transaction signature system may be integrated with the customer property management system, or the transaction signature system may be operating as another system.
-
 \begin{table}
  \caption{Keys in cryptocurrency exchange}
  \begin{tabular}{ll} \hline
@@ -65,7 +61,6 @@ We defined each functional element to distinguish functions logically, and do no
  \end{tabular}
  \label{tbl_4_1}
 \end{table}
-
 After a pair of a signature key and a verification key (hereafter “key pair”) is generated, an address to receive transactions is generated from the verification key. By notifying a sender of crypto assets this address, the sender is able to transfer the asset to the address. When the recipient transfers the asset to the other address, the original recipient signs the transaction data which includes the transfer order. Inactive state of the signature key is the state such that the signature key is stored in confidential manner in the signature key management function of Fig.~\ref{fig_system_model}. An example of inactivation is encryption by encryption/decryption key (e.g. pass phrase), that is, the signature key is encrypted. In contrary, activation is the process to make the key usable to sign, by decrypting the inactivated key. The activation is assumed to be executed in transaction signing function of Fig.~\ref{fig_system_model}. Activation and inactivation may be executed in an implementation of wallet, when the wallet have both functions. The signature key is not needed after its generation until execution of signing to transaction. Thus, there is a way to manage the signature key in offline manner with storing the verification key and address online(cold wallet).
 
 \begin{description}
@@ -176,7 +171,6 @@ based on Fig.~\ref{fig_system_model}% in \ref{Threat modeling and security requi
 %  unexpectedly by the designer or operator irrespective of the
 %  intention or malice of the operation.  For example, a signature
 %  private key leaks due to a bug in the exchange management system.
-
 Of these threat factors, theft and fraudulent use are regarded as
 threats that can only be caused by explicit malicious factors.
 % As a

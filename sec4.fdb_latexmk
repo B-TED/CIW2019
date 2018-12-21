@@ -1,16 +1,16 @@
 # Fdb version 3
-["dvipdf"] 1545427923 "sec4.dvi" "sec4.pdf" "sec4" 1545427924
-  "sec4.dvi" 1545427922 8132 f107ae8d868c4db5067e1b65b25a806e "latex"
+["dvipdf"] 1545429554 "sec4.dvi" "sec4.pdf" "sec4" 1545429555
+  "sec4.dvi" 1545429554 8108 469e26bf2763323ebe6e8c752c559087 "latex"
   (generated)
   "sec4.pdf"
-["latex"] 1545427922 "sec4.tex" "sec4.dvi" "sec4" 1545427924
+["latex"] 1545429553 "sec4.tex" "sec4.dvi" "sec4" 1545429555
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1522066949 33362 cf75436e19743e94a92a6b1b9183c434 ""
   "/usr/local/texlive/2018/texmf-var/web2c/euptex/uplatex.fmt" 1538238503 4476416 fa4e5c44c3f5ac529523333a28c2daab ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "sec4.aux" 1545427921 8 a94a2480d3289e625eea47cd1b285758 ""
-  "sec4.tex" 1545427921 14112 57ca15306f8b8cf6fb6f152011f23547 ""
+  "sec4.tex" 1545429553 14106 6da310b864b6ea30288a7f22a0cdd30b ""
   (generated)
-  "sec4.dvi"
   "sec4.log"
+  "sec4.dvi"

@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.8.1-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.9.29)  21 DEC 2018 13:32
+This is e-upTeX, Version 3.14159265-p3.8.1-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.9.29)  21 DEC 2018 13:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -182,56 +182,52 @@ File: babel.def 2018/09/26 3.24 Babel common definitions
 )) (./CIW19_excange.aux)
 \openout1 = `CIW19_excange.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 31.
+(Font)              scaled to size 13.85594pt on input line 30.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 31.
+(Font)              scaled to size 13.85594pt on input line 30.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 31.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 30.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 31.
+(Font)              scaled to size 13.85594pt on input line 30.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 31.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 30.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 31.
+(Font)              scaled to size 13.85594pt on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 31.
+(Font)              <7> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 31.
+(Font)              <5> on input line 30.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 31.
+(Font)              scaled to size 8.65997pt on input line 30.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 31.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 31.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 31.
+(Font)              scaled to size 8.65997pt on input line 30.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <9> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 33.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 32.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 33.
+(Font)              scaled to size 8.65997pt on input line 32.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <9> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 33.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 32.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 33.
+(Font)              scaled to size 8.65997pt on input line 32.
 
-Overfull \hbox (1.98407pt too wide) in paragraph at lines 62--64
+Overfull \hbox (1.98407pt too wide) in paragraph at lines 61--63
 []\T1/cmr/bx/n/9 Keywords: \T1/cmr/m/n/9 Cryp-tocur-rency ex-change, In-for-ma-tion se-cu-rity man-age-ment 
  []
 
@@ -258,90 +254,84 @@ LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 6.
  [1
 
-] [2]) (./sec4.tex [3]
+]) (./sec4.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 25.
 File: system_model.pdf Graphic file (type pdf)
 <system_model.pdf>
 
-Overfull \hbox (11.38113pt too wide) in paragraph at lines 31--32
+Overfull \hbox (11.38113pt too wide) in paragraph at lines 28--29
  [] 
  []
 
 File: key_lifecycle.pdf Graphic file (type pdf)
 <key_lifecycle.pdf>
 
-Overfull \hbox (5.88257pt too wide) in paragraph at lines 28--44
+Overfull \hbox (5.88257pt too wide) in paragraph at lines 25--41
 [][][][] 
  []
 
-
-LaTeX Warning: Reference `appendix_system_model' on page 4 undefined on input line 47.
-
-[4]
+[2] [3]
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 6.73553pt on input line 87.
+(Font)              scaled to size 6.73553pt on input line 82.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 6.73553pt on input line 87.
+(Font)              scaled to size 6.73553pt on input line 82.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 87.
+(Font)              scaled to size 5.77332pt on input line 82.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 87.
+(Font)              scaled to size 5.77332pt on input line 82.
 
-Overfull \hbox (7.98721pt too wide) in paragraph at lines 91--93
+Overfull \hbox (7.98721pt too wide) in paragraph at lines 86--88
 [][][][][] \T1/cmr/m/n/10 A cryp-tocur-rency ex-change
  []
 
-[5]) (./sec5.tex
+[4]) (./sec5.tex
 Overfull \hbox (5.95952pt too wide) in paragraph at lines 7--12
 []\T1/cmr/m/n/10 Many cryp-tocur-rency ex-
  []
 
-[6]) (./conclusion.tex [7])
-Overfull \hbox (1.77737pt too wide) in paragraph at lines 2--72
-\T1/cmr/m/n/10 Giving the un-for-tu-nate oc-curences of huge in-ci-dents at cryp-tocur-rency ex-changes,
- []
-
+[5]) (./conclusion.tex)
 
 LaTeX Font Warning: Font shape `JT2/mc/m/it' undefined
-(Font)              using `JT2/mc/m/n' instead on input line 74.
+(Font)              using `JT2/mc/m/n' instead on input line 73.
 
 
 LaTeX Font Warning: Font shape `JY2/mc/m/it' undefined
-(Font)              using `JY2/mc/m/n' instead on input line 74.
+(Font)              using `JY2/mc/m/n' instead on input line 73.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 []\T1/cmr/m/n/9 Satoshi Nakamoto, ``Bit-coin: A Peer-to-Peer Elec-tronic Cash Sys-tem,''
  []
 
 LaTeX Font Info:    Font shape `JT2/mc/m/it' will be
-(Font)              scaled to size 8.65997pt on input line 86.
+(Font)              scaled to size 8.65997pt on input line 85.
 LaTeX Font Info:    Font shape `JY2/mc/m/it' will be
-(Font)              scaled to size 8.65997pt on input line 86.
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+(Font)              scaled to size 8.65997pt on input line 85.
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
 []\T1/cmr/m/n/9 Japanese Fi-nan-cial Ser-vices Agency, ``In-terim re-port of in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
 \T1/cmr/m/n/9 spec-tion and mon-i-tor-ing on cryp-tocur-rency ex-changes,''
  []
 
-[8] (./CIW19_excange.aux)
+[7] (./CIW19_excange.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 1915 strings out of 493237
- 23429 string characters out of 6144379
- 120812 words of memory out of 5000000
- 5879 multiletter control sequences out of 15000+600000
+ 1913 strings out of 493237
+ 23395 string characters out of 6144379
+ 111812 words of memory out of 5000000
+ 5877 multiletter control sequences out of 15000+600000
  17922 words of font info for 59 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 30i,10n,23p,1350b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,11n,23p,1350b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on CIW19_excange.dvi (8 pages, 33428 bytes).
+Output written on CIW19_excange.dvi (7 pages, 24656 bytes).
