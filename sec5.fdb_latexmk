@@ -1,0 +1,14 @@
+# Fdb version 3
+["dvipdf"] 1545426662 "sec5.dvi" "sec5.pdf" "sec5" 1545426663
+  "sec5.dvi" 1545426662 976 92c0055fb2e0f423f80df676fa523248 "latex"
+  (generated)
+  "sec5.pdf"
+["latex"] 1545426662 "sec5.tex" "sec5.dvi" "sec5" 1545426663
+  "/usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1522066949 33362 cf75436e19743e94a92a6b1b9183c434 ""
+  "/usr/local/texlive/2018/texmf-var/web2c/euptex/uplatex.fmt" 1538238503 4476416 fa4e5c44c3f5ac529523333a28c2daab ""
+  "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
+  "sec5.aux" 1545426662 8 a94a2480d3289e625eea47cd1b285758 ""
+  "sec5.tex" 1545426662 13390 b680b24e23ac2da2895c9fa6a74baa0b ""
+  (generated)
+  "sec5.log"
+  "sec5.dvi"

@@ -1,0 +1,129 @@
+\section{Analysis of the reality of ``Cryptocurrency Exchanges''}
+%\subsection{How cryptocurrency exchanges introduce themselves and general persons recognize it}
+%\label{perception_gap}
+%TV CM, Okuri-bito, etc.
+
+\subsection{Trends of the shortage of governance and security management}
+% During JFSA, Japanese governmaenal regulation authority,  did audit and investigation, it issues administrative penalties to cryptocurrency exchanges with problems.
+After the CoinCheck incident, JFSA issues 20 administrative penalties to 17 cryptocurrency exchanges.
+Each release for the administrative penalty explains problems to be fixed. There are 22 kinds of problems are explained. Table 2 shows 6 major problems and which problems are applicable to each cryptocurrency exchange.
+% These 6 problems are those which over 25 \% of cryptocurrency exchange was requested to fix them.
+They are Corporate management issue, system risk issue, anti-money laundering, segregation of customers' asset, customer protection and
+consideration to deal with new cryptocurrencies.
+
+\begin{table}
+\begin{center}
+\caption{Major problems which each cryptocurrency exchange was requested to fix}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}\hline
+Problems & (1) & (2) & (3)& (4) & (5) & (6)& (7) & (8) & (9)& (10) & (11) & (12)& (13) & (14) & (15)& (16) & (17)  \\ \hline
+Management & x & x &  & x & x & x & x &  & x &  & x & x &  & x &  & x &  x \\ \hline
+System Risk & x & x & x & x & x & x & x &  & x & x & x & x & x & x & x & x & x   \\ \hline
+AML & x & x & & x & x & x & x &  & x & x & x & x & x & x & x & x & x  \\ \hline
+Segregation & x &  & & x &  & x & x &  & x &  &  & x & x & x & x & x & x   \\ \hline
+Customer  & x &  & & x & x &  &  & x & & x & x & &  &  & & x &    \\ \hline
+New coin & x &  & & x &  & x &  &  & x &  &  & x &  &  & & x &    \\ \hline
+\end{tabular}
+\label{incidents}
+\end{center}
+\end{table}
+
+% From this table, the first important result is that most of all
+% cryptocurrency exchanges which were penalized, did not have qualified corporate management, system risk management and
+% systems and operations for anti money laundering. This indicates there is no common understandings
+% on the implementation and operations for financial services. The lack of management of system risks
+% is indicates that such cryptocurrency exchanges do not have enough number of qualified system designers,
+% engineers and operators. As we described in 2.1, most of incidents were caused by attacks from outside,
+% and the amount of assets should incentivize the attackers to mount actual attacks. Thus,
+% each cryptocurrency exchange should hire a group of experienced security experts. However, the reality
+% is not the case.
+%
+% AML is the main issue from the regulatory authority point of view. However, most of all penalized
+% cryptocurrency exchanges did not have enough operational capability in this. That is,
+% such cryptocurrency exchanges did not hire such experts and hence they were not qualified as
+% financial institutions.
+
+Though corporate management and AML are the most crotical issues,
+the other things to be noted is the segregation of customers' asset. This is a quite fundamental operation
+as a financial institution, but over 50 \% of penalized cryptocurrency exchanges manage
+customers' assets with the institutional assets, private assets, or assets of multiple customers co-mingled.
+
+\subsection{Functionalities which real cryptocurrency exchanges have}
+
+%As described in~\ref{perception_gap}, t
+There are many perception gaps between what user of cryptocurrency exchange think and real cryptocurrency exchange.
+From the word of ``Exchange,'' a general person think the task of the cryptocurrency exchange is matching selling orders to buying order
+like a general stock exchange.
+However, a user has an account at the cryptocurrency exchange, then deposit some amount of money to the account. This implies the cryptocurrency exchange has similar functionality as a bank. Moreover, most cryptocurrency exchanges keep a (private) signing key of each user inside their server. This means such cryptocurrency exchanges have a functionality of custodian.
+By the investigation,
+% described in \ref{investigation}
+some cryptocurrency exchanges do not record transfer of cryptocurrency into
+the original blockchain, but manage another database (hopefully some blockchain system) as a ledger inside the exchange.
+In such case, cryptocurrency is ``sold'' in exchange of customer's money, but nothing is sold and the customer buys something
+without the existence of the cryptocurrency.
+In some case, cryptocurrency is sold by the exchange itself with some information as it seems matched with some order. However,
+the suggested price is shown by the exchange, and the transaction is conducted by price asked. In this case, the customer thinks
+the transaction is conducted by the result of matching over market,  but the reality is simple purchasing. In this case, the ``exchange.''
+is not true exchange, but a currency shop.
+There is an essential reason why an average customer deposits the private signing key to the cryptocurrency exchange is,
+it is not easy to securely manage the private cryptographic key for such an average person.
+
+% From above all, the functionality of cryptocurrency exchange is apparently beyond the ``exchange'', and in some case, it is
+% a simple shop, and in the worst case, this might be selling nothing in exchange of real money.
+
+\subsection{Shortage of security consideration}
+From the analysis of functionalities described in the previous subsection, most of the existing cryptocurrency exchanges
+have more functionalities than any one of the stock exchange, bank, custodian, and shop.
+Thus, the cryptocurrency exchange needs to manage security risks according to all the functionality it has.
+Hence, the security consideration should be the sum of security management for each function and more.
+With considering the amount of values each cryptocurrency exchange deals with, it should be a big target of cyber attacks.
+Such cyber attacks cause most of past incidents described in 2.1. Thus, each cryptocurrency exchange should be
+tolerant to global scale cyber attacks.
+
+However, unfortunately, most cryptocurrency exchanges are startup companies. Thus, they do not have enough
+capability to hire enough experts to design, implement and operate secure cryptocurrency exchange. The number of
+such qualified experts is quite limited, thus attracting the sufficient number of qualified experts is not entirely a matter of money.
+As a result, most cryptocurrency exchanges are not designed by general security management methodology for infrastructure.
+They include not only cryptography but for security for the entire system, like protocol, authentication and access control, authorization,
+network security, implementation and certification, key management, and operation.
+However, such system-level security consideration was omitted.
+For example, the early stage discussion right after the CoinCheck incident was a treatment of cold wallet, which is only a part of security management.
+
+\subsection{Issues which are common to the financial industry and specific to cryptocurrency exchange}
+
+Most of the issues
+% described in section \ref{investigation}
+are common to the financial industry. However, the rest is specific to cryptocurrency exchange.
+%Among six significant problems
+% described in 2.4,
+%corporate management and customer protection is common to the financial industry, and there are no specific matters to
+%cryptocurrency exchange. %Here, we describe issues specific to cryptocurrency exchange.
+%System risk is, of course, common to the financial industry, but
+The design and security management of
+information system depends on each specific business conditions. For example, key management is
+one of the biggest issues in the application of cryptography. Given the real world business of cryptocurrency
+exchange, many customers deposit their private cryptographic keys. The key management lifecycle is different
+from ordinary Public Key infrastructure (PKI).
+Informational assets, attack surfaces, threats, and risks
+vary due to each business environment. We will analyze the security management of
+cryptocurrency exchanges in section 4.
+AML is also a common issue for all financial business, but anonymous cryptocurrency causes
+many difficulties than ordinary financial services. In the case of CoinCheck incident,
+the stolen NEM coin could not be actually traced. Currently, cryptocurrency exchange is one of few targets of regulation, because it is the connecting point between cryptocurrency and real-world economy. With current regulation which fits FATF recommendation, most of all cryptocurrency exchange conducts verification of identity. Introduction of Decentralized Exchange (DEX) will eliminate the point of regulation. Thus it
+should increase this difficulty.
+% Dealing with a new coin is a new issue for cryptocurrency exchange. New cryptocurrency should be evaluated
+% on its characteristics and technical reliability.
+
+\subsection{Discussion on key management}
+
+% Segregation of customers' asset has another discussion issue.
+% In the case of CoinCheck incident, all assets deposited at CoinCheck are managed by using one cryptographic key pair (address), and this is the reason
+% why the entire customer assets were stolen in a short time period.
+In the CoinCheck incident, the stolen cryptocurrency was NEM, of which the underlying consensus mechanism is based on Proof-of-Stake (PoS).
+There are many reasons including transaction throughput, to manage the assets of many customers by using one key.
+% It is not clear that this was the reason why CoinCheck managed the all assets by using one address. However, i
+In general, PoS type cryptocurrency may
+give cryptocurrency exchange terrible incentive to manage all assets with one key, because the cryptocurrency exchange can gain mining (or similar) reward by utilizing the vast amount of customer's cryptocurrency.  As a result, cryptocurrency exchange produces a new single point of failure, and it is
+things should be avoided from the security point of views. Of course, this type of operation is out of the scope of cryptocurrency, but we need to care about the possibility to
+happen this kind of things.
+Each consensus mechanism has pros. and cons. generally. However, this is one issue of the downside of PoS type cryptocurrency, and we need to have
+clear operation policy for PoS type cryptocurrency.

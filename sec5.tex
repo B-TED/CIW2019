@@ -1,0 +1,135 @@
+%\section{Directions and action items to secure cryptocurrency exchanges}
+\section{Directions to secure cryptocurrency exchanges}
+\subsection{Required technologies}
+From above analysis, there are six issues where we need to consider to introduce enhanced technologies to make cryptocurrency exchange trustable.
+\begin{description}
+ \item[Authenticity and integrity of segregated ledger:]
+       Many cryptocurrency exchanges manage customers' assets by using the segregated ledger, and
+       they record not all transactions on the public blockchain, because of efficiency and latency
+       reasons. Assuring integrity and authenticity of segregated ledger is essential part of
+       security of their business. Introducing transparent way,
+       such as cryptographic timestamp, to assure such characteristics is needed.
+
+ \item[Muti-signature:]
+       Multi-signature is a major technology to avoid loss of customers' asset when loss of one or
+       minor part of keys occurs.
+
+ \item[Underlying cryptography and implementation:]
+       HSM is the trust anchor of cryptocurrency exchange. In general, HSM supports standard cryptographic
+       algorithms. However, cryptocurrency may implement special algorithm or parameter as curve of ECC.
+       Standardization of underlying cryptography and selecting HSM which supports
+       more algorithms are needed.
+
+ \item[Kay management and wallet:]
+       Most cryptocurrency exchanges manage assets using hot wallet for online transaction and cold wallet
+       to protect keys from attack from network. For online wallet, utilizing certification program like
+       FIPS 140-2 or CMVP and products with such certification is needed.
+
+ \item[Audit:] Internal audit and third party audit is needed to provide transparency to customers
+       and regulators. Technology to make such audit easy such as cryptographic time stamp is needed.
+
+ \item[External evaluation:]
+       To clarify the security level of implementation, certification as common criteria (ISO/IEC 15048)
+       is needed. Establishing protection profile is helpful to conduct external evaluation.
+\end{description}
+
+\subsection{Required operations}
+
+\begin{description}
+ \item[Basics of key management]
+       %In general, followings are required in management of private cryptographic keys.
+       In general private cryptographic keys.
+       % They
+       should be isolated from other informational assets, the number of access to private keys should be limited as minimum as possible and be prepared for unintentional lost of private keys.
+       %\begin{itemize}
+       %\item They should be Isolated from other informational assets. Rigorous access control is mandatory.
+       %\item Limit the number of access to private keys as minimum as possible.
+       %\item Be prepared for unintentional lost of private keys.
+       %\end{itemize}
+       %Followings are three basic security control to realize above. Additional security controls specific to crypto assets custodians are described in and after sub-clause {{security-controls-at-crypto-assets-custodian}}.
+       Three security controls as State management of private keys, Administrator role separation and mutual check-and-balance and Backup of private key are needed.
+
+       %\begin{enumerate}
+       %  \item State management of private keys \\
+       %As described in \ref{key_lifecycle}, a private key has one of multiple states, and it may be active or inactive state in its operation. The private key should be in active state when it is used for signing or decryption. It is recommended to enforce to input some secret information to activate an inactive private key. This makes keep the inactive private key away from abuse, if the adversary does not have the secret information. This method ensure security of the private key against leakage and lost.\\
+       %It is also recommended to minimize the term of activation to limit the risk of abuse as minimum as possible. Unnecessary activation of secret key increases the risk of abuse, leakage and theft, though keeping the activation state is efficient from business viewpoint. On the other hand, frequent activation/inactivation may give impact to business efficiency. It is important to consider the trade-off between the risk and business efficiency and provide clear key management policy to customers.
+       %  \item Administrator role separation and mutual check-and-balance\\
+       %It is fundamental form of operation of a critical business process which uses private key to perform cryptographic operations by multiple party to prevent internal frauds and errors. For example, by setting isolated rights on digitally signing and approval to go into the area of signing operation, it becomes difficult for single adversary to give an malicious digital signature without known by the third party. Additionally, the enforcement of attendance of other person is effective security control to internal frauds and mis-operations.
+       %  \item Backup of private key\\
+       %Lost of private key makes signing operations by using the key impossible any more. Thus backup of private key is an important security control. On the other hand, risks of leakage and theft of backup keys should be considered. It is needed to inactivate the backup key.
+       %\end{enumerate}
+
+ \item[Backup]
+
+       Backup is the most fundamental and effective measure against lost of signing key. On the other hand, there are  risks of leakage and lost of backup device. These risks depend on the kind backup device, thus security controls on such devices should be considered independently.
+       %Followings describe typical backup devices and leakage/theft risks associated with them.
+       Typical ways are Cloning to tamper-resistant cryptographic key management device, Backup to storage for digital data and Backup to paper.
+
+       %\begin{itemize}
+       %  \item Cloning to tamper-resistant cryptographic key management device \\
+       %  If a signing key is managed by a tamper-resistant key management device (device X) and X has cloning function, cloning the key to another device Y is the most secure way to backup the key, where the cloning function is the technique to copy the key with keeping confidentiality to other devices than X and Y. The implementation of the function is recommended to be evaluated/certified by certification program like CMVP or FIPS 140. Note that, the cryptographic algorithms supported by such tamper-resistant key management devices are limited and all crypto assets systems can utilize it, but it is one of the most secure way of backup.
+       %  \item Backup to storage for digital data \\
+       %  Here, it is assumed to backup keys to storage like USB memory and DVD. There are two types of operations; one is backup data is stored in movable devices in offline manner, the other is backup data is stored in online accessible manner. If the device is movable, the possibility of steal and lost increases, thus the device should be kept in a cabinet or a vault with key, and the access control to such cabinet/vault should be restrict. \\
+       %  Of the backup storage is online, risks of leakage and theft should be assumed as same as the key management function implementation inside the crypto assets custodian. In general, the same security control is recommended to such backup storage. If there is some additional operation, for example the backup device is inactivated except for the time of restore, the security control may be modified with considering operation environment. When it is not avoided the raw key data is be outside of the key management function implementation, the custodian should deal with the problem of remained magnetics.
+       %  \item Backup to paper\\
+       %  There is a way to backup keys in offline manner, to print them to papers as a QR code or other machine readable ways. It is movable than storage for digital data and easy to identify. There remains some risk of leakage and theft by taking a photo by smartphone and so on.
+       %\end{itemize}
+
+ \item[Offline management]
+       There is a type of offline key management (as known as "cold wallet") which isolates private keys from the system network to prevent leakage and theft caused by intrusion.
+
+       %In this case, some offline operation is needed to make the system use the key. Examples are, keys are usually stored inside a vault and connected to the system only when it is utilized, and USB memory is used to data transportation between an online system and an offline system.  If there is not explicit approval process in the offline operation for key usage, anyone cannot stop malicious transaction. That is, this solution can prevent lost and theft, however, an explicit approval process is needed to prevent abuse of keys.
+
+ \item[Distributed management]
+       It is also a good security control to distribute the right to use private key to multiple entity. There are two examples; division of secret key and multi-signature.
+\end{description}
+
+%\begin{itemize}
+%\item Division of secret key\\
+%Division of the signing key to multiple parts, then manage them by multiple isolated system is an effective measure to protect the keys against leakage and theft. This document does not recommend  a specific technique, but recommends to implement this control based on a certain level of security evaluation like secret sharing scheme. In that case, secure coding and mounting penetration test are needed to eliminate the implementation vulnerabilities. This method is also effective to backup devices.
+%\item Multi-Signature\\
+%This is a signature scheme which requires multiple isolated signing keys to sign a message. It is effective to protect each key hold by an entity and signing mechanisms. There are many different realization of multi-signature and they are different according to specific crypto assets system. Thus, consideration on preparing multiple implementations and their interoperation is need when a crypto assets custodian operate multiple crypto assets.
+%\end{itemize}
+
+%\paragraph{Other issues}
+%
+%In this sub-clause, following topics will be described.
+%
+%\begin{itemize}
+%  \item Security of wallet implementation
+%  \item Monitoring of private key access
+%  \item Log audit
+%\end{itemize}
+
+% \subsection{Fixing pitfalls}
+% One of the sources of problems is gaps in understandings among stakeholders. There are four major stakeholders; cryptocurrency exchange, cryptocurrency engineers/researchers, regulators, and customers.
+% Cryptocurrency exchange might start the business without sufficient knowledge of security management,
+% and assumptions in operating cryptocurrency system, though any technology has an assumption and limitation for
+% operation.
+% As a result of the investigation, most cryptocurrency exchanges do not have qualified knowledge
+% and capability to operate as financial institutions. Some exchange does not deal with requests from the regulatory authority, that is, there might not be a common language for communication between
+% cryptocurrency exchanges and regulators.
+% Regulators also do not have enough technical knowledge to evaluate the technological reliability of each
+% cryptocurrency.
+% Customers need the knowledge to evaluate each cryptocurrency and transparency for the operation of
+% cryptocurrency exchange. However, currently, disclosure by cryptocurrency exchange is not sufficient.
+% Many scams occur from this asymmetry of knowledge.
+% Such a difference of understandings is a source of difficulties to solve the problem.
+% We need to create a common dictionary for conversation among all stakeholders and
+% a neutral place to communicate in a multi-stakeholder manner.
+
+\subsection{Toward standardization}
+
+%As described in section 1, it is too early to define some technology and operational standards at well-recognized standardization body like ISO, IEC, ITU-T, etc, because blockchain technology and its architecture is currently dynamically changing.
+%However,
+Though it is too early to define some technology and operational standards,
+some standardization bodies started already their activities and study toward the future standard.
+On the security of cryptocurrency exchange, ISO TC307 started two projects to make a technical report on the security of blockchain and distributed ledger technology (ISO TR23245) and a technical report on security practice of digital asset custodians (ISO TR23576).
+%Here, ``digital asset custodians'' means financial institutes which store digital assets and/or credentials (cryptographic keys, etc. ) associated with the digital assets, hence existing cryptocurrency exchanges are included in this category of institutes.
+% The study described in section 4 is now developed as an internet draft in IETF.
+%The almost same contents are described in ISO TR23576.
+%Despite the difficulty to create a technical standard on blockchain technology,
+Such standard or agreed document is needed to operate any organization
+associated with blockchain technology, because they store and utilize cryptographic keys. These documents are useful not only for constructing
+a cryptocurrency exchange, but also audit, creating and operating management lifecycle, providing pieces of evidence of secure operation to the public, and
+earning trust to operators of trustless financial systems.

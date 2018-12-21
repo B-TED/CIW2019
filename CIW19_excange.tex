@@ -1,0 +1,113 @@
+%
+%Paper for CIW 2019
+%Title: How to encourage cryptocurrency exchange to secure their system
+%Authors: Shin'ichiro Matsuo, Yuta Takanashi, Pindar Wong, Eric Burger
+%
+
+\documentclass[english]{llncs}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage[title,toc,titletoc,header]{appendix}
+
+\usepackage{babel}
+\pagestyle{headings}
+
+%\title{What is Cryptocurrency Exchange? - the reality and how to secure it}
+%\title{Reality of less trust than expected to trustless financial system}
+\title{Keep Implementation of Cryptocurrency Exchanges Healthy: Lessons from Japan's Experience with Mt. Gox and CoinCheck}
+
+\titlerunning{Reality of less trust than expected to trustless financial system}
+\author{
+Yuta Takanashi\inst{1,2}\and Shin'ichiro Matsuo \inst{1} \and Pindar Wong\inst{3} \and Eric Burger\inst{1} \and Masashi Sato\inst{4} \and Masaki Shimaoka\inst{4} \and Hirotaka Nakajima\inst{5}}
+\institute{Georgetown University
+\and Financial Services Agency
+\and VeriFi Ltd.
+\and SECOM Co., Ltd.
+\and  Mercari, Inc.}
+\date{\today}
+\renewcommand{\baselinestretch}{0.98}
+\begin{document}
+\maketitle
+
+\begin{abstract}
+After the original publication of the Bitcoin paper~\cite{N08}, cryptocurrency exchanges emerged to connect the fiat currency world to the cryptocurrency world.
+Although many users of cryptocurrency exchanges demonstrate confidence in this simple role for an exchange, recent security incidents suggest that a gap
+%may exist
+exists
+between the perception of users and the reality.
+% of the cryptocurrency exchange management.
+%That is, what kinds of operations are conducted, what are the informational asset to be protected, and what kinds of security postures are required.
+That is, operations, informational asset to be protected, and security postures should be clarified.
+In this paper, we summarize the results of an investigation of
+%  16 registered and 16
+% %quasi-registered
+% semi-registered
+32 cryptocurrency exchanges by Japanese regulators, then analyze the reality of functionalities, implementation, and operations of
+%real
+cryptocurrency exchanges. Then,
+from
+%an information security management system (ISMS)
+%standard
+ISMS
+point of view, we analyze relevant features of the blockchain protocol, cryptographic key management, system security, and operation, and clarify the required actions to secure the implementation and operation of cryptocurrency exchanges.
+% We argue that the current activities in the IETF and ISO to develop
+% %a common standard
+% common document
+% %for securing
+% to secure
+% cryptocurrency exchanges would help industry as well as regulators to move forward towards establishing a healthy ecosystem.
+
+
+{\bf Keywords:} Cryptocurrency exchange, Information security management
+%, Standards
+\end{abstract}
+
+%\input{introduction.tex}
+%\input{sec2.tex}
+\input{sec3.tex}
+\input{sec4.tex}
+\input{sec5.tex}
+\input{conclusion.tex}
+
+\begin{thebibliography}{21}
+\bibitem{N08} Satoshi Nakamoto, ``Bitcoin: A Peer-to-Peer Electronic Cash System,'' \textit{https://bitcoin.org/bitcoin.pdf}.
+
+% \bibitem{IETF18}
+% M. Sato, M. Shimaoka, and H. Nakajima, ``  General Security Considerations for Crypto Assets Custodians,''
+%  \textit{https://tools.ietf.org/html/draft-vcgtf-crypto-assets-security-considerations-02}
+
+% \bibitem{ISOTR23576}
+% S. Matsuo and A. L. Castro (ed.), ``ISO TR 23576: Blockchain and distributed ledger technologies -- Security of digital asset custodians,''  under development,
+% \textit{https://www.iso.org/standard/76072.html}
+
+\bibitem{FSAGUIDELINE}
+Japanese Financial Services Agency, ``Guidelines for Administrative Processes: Financial Companies No16,''
+\textit{https://www.fsa.go.jp/policy/virtual\_currency/02.pdf}
+
+\bibitem{FSAREPORT}
+Japanese Financial Services Agency, ``Interim report of inspection and monitoring on cryptocurrency exchanges,''
+\textit{https://www.fsa.go.jp/news/30/virtual\_currency/20180810-2.pdf}
+
+\bibitem{MUFG}
+MUFG, ``Annual Report (USGAAP),''\\
+\textit{https://www.mufg.jp/english/ir/annualreport/2018mufg/pdf/mar/ar2018.pdf}
+
+\bibitem{ISO27001}
+``ISO/IEC 27001:2013: Information technology — Security techniques — Information security management systems — Requirements,''  \\
+\textit{https://www.iso.org/standard/54534.html}
+
+\bibitem{ISO27002}
+``ISO/IEC 27002:2013: Information technology -- Security techniques -- Code of practice for information security controls,''  \\
+\textit{https://www.iso.org/standard/54533.html}
+
+\end{thebibliography}
+
+%\begin{subappendices}
+%\renewcommand{\thesection}{\appendixname~\Alph{section}}
+%\input{appendix_report_examples.tex}
+%\input{appendix_system_model.tex}
+%\input{appendix_risk.tex}
+%\end{subappendices}
+
+\end{document}

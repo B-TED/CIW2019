@@ -1,0 +1,8 @@
+PWD /Users/sm3377/Documents/GitHub/FC2019_Paper_Exchange
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-var/web2c/euptex/uplatex.fmt
+INPUT sec3.tex
+OUTPUT sec3.log
+OUTPUT sec3.dvi

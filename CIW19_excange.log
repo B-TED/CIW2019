@@ -1,0 +1,347 @@
+This is e-upTeX, Version 3.14159265-p3.8.1-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.9.29)  21 DEC 2018 13:32
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**CIW19_excange.tex
+(./CIW19_excange.tex
+pLaTeX2e <2018-07-28u02>+1 (based on LaTeX2e <2018-04-01> patch level 5)
+(./llncs.cls
+Document Class: llncs 2004/08/17 v2.14 
+ LaTeX document class for Lecture Notes in Computer Science
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 54.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 54.
+)
+\c@part=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\c@subparagraph=\count88
+\c@figure=\count89
+\c@table=\count90
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen118
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
+\c@tracingmulticols=\count91
+\mult@box=\box42
+\multicol@leftmargin=\dimen119
+\c@unbalance=\count92
+\c@collectmore=\count93
+\doublecol@number=\count94
+\multicoltolerance=\count95
+\multicolpretolerance=\count96
+\full@width=\dimen120
+\page@free=\dimen121
+\premulticols=\dimen122
+\postmulticols=\dimen123
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box43
+\last@line=\box44
+\maxbalancingoverflow=\dimen124
+\mult@rightbox=\box45
+\mult@grightbox=\box46
+\mult@gfirstbox=\box47
+\mult@firstbox=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\c@columnbadness=\count97
+\c@finalcolumnbadness=\count98
+\last@try=\dimen125
+\multicolovershoot=\dimen126
+\multicolundershoot=\dimen127
+\mult@nat@firstbox=\box66
+\colbreak@box=\box67
+\mc@col@check@num=\count99
+)
+\c@chapter=\count100
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 360.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 361.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 362.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 363.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 364.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 365.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 366.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 367.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 368.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 369.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 370.
+\tocchpnum=\dimen128
+\tocsecnum=\dimen129
+\tocsectotal=\dimen130
+\tocsubsecnum=\dimen131
+\tocsubsectotal=\dimen132
+\tocsubsubsecnum=\dimen133
+\tocsubsubsectotal=\dimen134
+\tocparanum=\dimen135
+\tocparatotal=\dimen136
+\tocsubparanum=\dimen137
+\@tempcntc=\count101
+\fnindent=\dimen138
+\c@@inst=\count102
+\c@@auth=\count103
+\c@auco=\count104
+\instindent=\dimen139
+\authrun=\box68
+\authorrunning=\toks15
+\tocauthor=\toks16
+\titrun=\box69
+\titlerunning=\toks17
+\toctitle=\toks18
+\c@theorem=\count105
+\c@case=\count106
+\c@conjecture=\count107
+\c@corollary=\count108
+\c@definition=\count109
+\c@example=\count110
+\c@exercise=\count111
+\c@lemma=\count112
+\c@note=\count113
+\c@problem=\count114
+\c@property=\count115
+\c@proposition=\count116
+\c@question=\count117
+\c@solution=\count118
+\c@remark=\count119
+\headlineindent=\dimen140
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/base/latin9.def
+File: latin9.def 2018/04/06 v1.3b Input encoding file
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count120
+\c@@ppsavesec=\count121
+\c@@ppsaveapp=\count122
+) (/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/09/26 3.24 The Babel package
+ (/usr/local/texlive/2018/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/09/26 3.24 Babel switching mechanism
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+ (/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/09/26 3.24 Babel common definitions
+\babel@savecnt=\count123
+\U@D=\dimen143
+ (/usr/local/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count124
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)) (./CIW19_excange.aux)
+\openout1 = `CIW19_excange.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 31.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 31.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 31.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 31.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 8.65997pt on input line 31.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 8.65997pt on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 31.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <9> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 33.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 8.65997pt on input line 33.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <9> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 33.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 8.65997pt on input line 33.
+
+Overfull \hbox (1.98407pt too wide) in paragraph at lines 62--64
+[]\T1/cmr/bx/n/9 Keywords: \T1/cmr/m/n/9 Cryp-tocur-rency ex-change, In-for-ma-tion se-cu-rity man-age-ment 
+ []
+
+(./sec3.tex
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 1.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 1.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 1.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 1.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 6.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 6.
+ [1
+
+] [2]) (./sec4.tex [3]
+File: system_model.pdf Graphic file (type pdf)
+<system_model.pdf>
+
+Overfull \hbox (11.38113pt too wide) in paragraph at lines 31--32
+ [] 
+ []
+
+File: key_lifecycle.pdf Graphic file (type pdf)
+<key_lifecycle.pdf>
+
+Overfull \hbox (5.88257pt too wide) in paragraph at lines 28--44
+[][][][] 
+ []
+
+
+LaTeX Warning: Reference `appendix_system_model' on page 4 undefined on input line 47.
+
+[4]
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 6.73553pt on input line 87.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 6.73553pt on input line 87.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 5.77332pt on input line 87.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 5.77332pt on input line 87.
+
+Overfull \hbox (7.98721pt too wide) in paragraph at lines 91--93
+[][][][][] \T1/cmr/m/n/10 A cryp-tocur-rency ex-change
+ []
+
+[5]) (./sec5.tex
+Overfull \hbox (5.95952pt too wide) in paragraph at lines 7--12
+[]\T1/cmr/m/n/10 Many cryp-tocur-rency ex-
+ []
+
+[6]) (./conclusion.tex [7])
+Overfull \hbox (1.77737pt too wide) in paragraph at lines 2--72
+\T1/cmr/m/n/10 Giving the un-for-tu-nate oc-curences of huge in-ci-dents at cryp-tocur-rency ex-changes,
+ []
+
+
+LaTeX Font Warning: Font shape `JT2/mc/m/it' undefined
+(Font)              using `JT2/mc/m/n' instead on input line 74.
+
+
+LaTeX Font Warning: Font shape `JY2/mc/m/it' undefined
+(Font)              using `JY2/mc/m/n' instead on input line 74.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+[]\T1/cmr/m/n/9 Satoshi Nakamoto, ``Bit-coin: A Peer-to-Peer Elec-tronic Cash Sys-tem,''
+ []
+
+LaTeX Font Info:    Font shape `JT2/mc/m/it' will be
+(Font)              scaled to size 8.65997pt on input line 86.
+LaTeX Font Info:    Font shape `JY2/mc/m/it' will be
+(Font)              scaled to size 8.65997pt on input line 86.
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+[]\T1/cmr/m/n/9 Japanese Fi-nan-cial Ser-vices Agency, ``In-terim re-port of in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+\T1/cmr/m/n/9 spec-tion and mon-i-tor-ing on cryp-tocur-rency ex-changes,''
+ []
+
+[8] (./CIW19_excange.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1915 strings out of 493237
+ 23429 string characters out of 6144379
+ 120812 words of memory out of 5000000
+ 5879 multiletter control sequences out of 15000+600000
+ 17922 words of font info for 59 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 30i,10n,23p,1350b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on CIW19_excange.dvi (8 pages, 33428 bytes).

@@ -1,0 +1,69 @@
+\section{Introduction}
+%\paragraph{Background}
+Eliminating the trusted third party in realizing network-based services is one of the biggest dreams in applied cryptography.
+%cryptographic research.
+% Hence this is the main subject in this world.  The main reason why we seek to eliminate the trusted party is, it is too difficult to realize expected trusted party. Such difficulties are caused by operator's mistakes, malicious activities, and collusion with other parties. Many cryptographic techniques like secret sharing scheme, threshold cryptography, and multi-party computation
+%protocol are well studied to realize many network-based services without trusted parties.
+%The sentence, ``An electronic payment system based on cryptographic proof instead of trust, allowing any two willing parties to transact directly with each other without the need for a trusted third party.'' is the explanation of Bitcoin - one of the most attractive cryptographic protocols - described in the original paper~\cite{N08}. Bitcoin is one of the most excellent cryptographic protocols which
+%claimed to realize payment scheme among cryptographic protocols which try to eliminate the trusted party.
+
+Despite this attractive claim of bitcoin,
+%there
+% is a
+%are fundamental
+%assumption
+%assumptions
+%in the claim. That is, it holds only when the payment is conducted by bitcoin, and no exchange to any other
+%payment
+%methods exists. Its ``without trusted third party'' claim realized by the distributed protocol is applicable only on the ledger of payment record for bitcoin.
+%If we wish to exchange Bitcoin to other assets like fiat currency, the action of exchange is outside of what original paper claims. %That is, we need to assume some kinds of trust at a party which exchanges
+%so-called
+%trust-less cryptocurrency to other assets. Most people believe that cryptocurrencies are operated in the ``trust-less'' manner, as most cryptocurrency advertisement says. However, the cryptocurrency exchanges in real life are
+%(hidden)
+%hidden trusted parties.
+%
+throughout the history of trust-less cryptocurrency, there are many incidents have happened. In 2013, Mt. Gox lost many Bitcoin due to their careless operation and transaction malleability. In 2018, CoinCheck was hacked by a targeted attack and lost over 500M dollar equivalent NEM,
+% which 700,000 customers deposited in their account at CoinCheck.
+and Zaif also lost 50M dollar.
+%There are many other examples of cryptocurrency incidents reported.
+% from all over the world.
+%Such incidents are caused by a misunderstanding of required trust in operating
+%such
+%a party.
+% associated with trust-less cryptocurrency.
+%When considering the amount of value that such companies deal with, these companies - implicitly assumed to be trusted - should be secure enough against any kinds of attacks including cyber attacks.
+% and attacks on cryptography, key management.
+%However, even now, such companies do not have enough expertise and human resources to secure their implementations and operations against such security concerns.
+%
+Usually, when we build an information system, we conduct design and implements of security mechanisms and operations, with aligning information security management system (ISMS)
+%which is standardized in
+%as
+%the ISO/IEC 27000 series. The process includes threat modeling, risk analysis, and design and implementation of security %countermeasure and operations.
+However, at this moment
+there isn't any agreed unified security standard.
+% for organizations and entities related to cryptocurrency and blockchain.
+%Moreover, there is no standard software suite to build a cryptocurrency exchange.
+%Hence, the design and implementation of each cryptocurrency exchanges vary among operators.  This situation makes operations challenging to secure the cryptocurrency exchange.
+
+%Given this situation, we first need to figure out the reality of cryptocurrency exchanges, and then we need to proceed to implement existing ISMS process into implicitly trusted party associated with the trust-less ecosystem. We also need to reconsider the governance of such organization and entity. Above analysis and consideration helps to identify the required technologies, operations, and standards for cryptocurrency exchanges.
+%\paragraph{Contributions}
+The aim of this talk is giving a real status on the security of cryptocurrency exchange to consider future of uniformed security technology, management, governance, and standard.
+Firstly, we will show the results of investigation and audit to 32 cryptocurrency exchanges in Japan, conducted by the Japanese Financial Services Agency, the governmental regulatory authority of Japan. The investigation and audit were conducted right after the incident at CoinCheck.
+% (January 26, 2018). This includes analysis of the actual incidents, perspectives of investigation and results.
+From this starting point, we give a detailed analysis of
+%the difference between their advertisement and reality,
+what levels of security and governance are implemented and what are missing.
+Then we reconsider the governance and security management required to cryptocurrency exchange.
+%, which
+%including threat modeling of existing form of exchange. Then we show the required technology,
+%and
+%operations
+%, and standard
+%from the above analysis, as well as the recent progress of standardization.
+%of blockchain and cryptocurrency exchange security
+%in ISO TC307 and IETF.
+%The construction of this paper is as follow. Section 2 describes the result of investigation and audit to 32 cryptocurrency exchanges. Then, we analyze the result in section 3. Section 4 discusses the desired governance and security management conclusions.
+% from the above analysis.
+%We also discuss future direction toward security standard of technologies and operations for cryptocurrency exchange and explain the current status of security documents in ISO and IETF.
+%, which are also led by the author of this paper.
+%In section 6, we conclude this research.

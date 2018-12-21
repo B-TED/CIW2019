@@ -1,0 +1,3779 @@
+This is e-upTeX, Version 3.14159265-p3.8.1-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.9.29)  21 DEC 2018 13:11
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**sec5.tex
+(./sec5.tex
+pLaTeX2e <2018-07-28u02>+1 (based on LaTeX2e <2018-04-01> patch level 5)
+./sec5.tex:2: Undefined control sequence.
+l.2 \section
+            {Directions to secure cryptocurrency exchanges}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./sec5.tex:2: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \section{D
+              irections to secure cryptocurrency exchanges}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./sec5.tex:3: Undefined control sequence.
+l.3 \subsection
+               {Required technologies}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./sec5.tex:5: LaTeX Error: Environment description undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \begin{description}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (64.38896pt too wide) in paragraph at lines 2--6
+[]\OT1/cmr/m/n/10 Directions
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (11.72221pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 se-
+ []
+
+
+Overfull \hbox (18.36113pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 cure
+ []
+
+
+Overfull \hbox (22.52782pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 cryp-
+ []
+
+
+Overfull \hbox (26.41672pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 tocur-
+ []
+
+
+Overfull \hbox (23.63893pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 rency
+ []
+
+
+Overfull \hbox (13.05557pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 ex-
+ []
+
+
+Overfull \hbox (33.66672pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 changes
+ []
+
+
+Overfull \hbox (15.13889pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 Re-
+ []
+
+
+Overfull \hbox (27.52783pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 quired
+ []
+
+
+Overfull \hbox (21.3889pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 tech-
+ []
+
+
+Overfull \hbox (21.66672pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 nolo-
+ []
+
+
+Overfull \hbox (16.16669pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 gies
+ []
+
+
+Overfull \hbox (22.9445pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 From
+ []
+
+
+Overfull \hbox (25.00006pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 above
+ []
+
+
+Overfull \hbox (21.66672pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 anal-
+ []
+
+
+Overfull \hbox (8.61113pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 y-
+ []
+
+
+Overfull \hbox (13.44446pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 sis,
+ []
+
+
+Overfull \hbox (22.25003pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 there
+ []
+
+
+Overfull \hbox (13.36113pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 are
+ []
+
+
+Overfull \hbox (12.00003pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 six
+ []
+
+
+Overfull \hbox (10.05556pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 is-
+ []
+
+
+Overfull \hbox (17.8889pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 sues
+ []
+
+
+Overfull \hbox (25.58336pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 where
+ []
+
+
+Overfull \hbox (11.38889pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 we
+ []
+
+
+Overfull \hbox (20.00003pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 need
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (20.63892pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 sider
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (11.66669pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (16.13892pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 tro-
+ []
+
+
+Overfull \hbox (20.00003pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 duce
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 en-
+ []
+
+
+Overfull \hbox (30.55562pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 hanced
+ []
+
+
+Overfull \hbox (21.3889pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 tech-
+ []
+
+
+Overfull \hbox (21.66672pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 nolo-
+ []
+
+
+Overfull \hbox (16.16669pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 gies
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (22.77783pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 make
+ []
+
+
+Overfull \hbox (22.52782pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 cryp-
+ []
+
+
+Overfull \hbox (26.41672pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 tocur-
+ []
+
+
+Overfull \hbox (23.63893pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 rency
+ []
+
+
+Overfull \hbox (13.05557pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 ex-
+ []
+
+
+Overfull \hbox (29.72227pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 change
+ []
+
+
+Overfull \hbox (41.75009pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 trustable. 
+ []
+
+
+./sec5.tex:6: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...ticity and integrity of segregated ledger:]
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (24.72229pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 Many
+ []
+
+
+Overfull \hbox (22.52782pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 cryp-
+ []
+
+
+Overfull \hbox (26.41672pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 tocur-
+ []
+
+
+Overfull \hbox (23.63893pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 rency
+ []
+
+
+Overfull \hbox (13.05557pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 ex-
+ []
+
+
+Overfull \hbox (33.66672pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 changes
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 man-
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 age
+ []
+
+
+Overfull \hbox (17.27779pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 cus-
+ []
+
+
+Overfull \hbox (32.30562pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 tomers'
+ []
+
+
+Overfull \hbox (12.27779pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 as-
+ []
+
+
+Overfull \hbox (16.22223pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 sets
+ []
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 by
+ []
+
+
+Overfull \hbox (12.83334pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 us-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (16.72223pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 seg-
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 re-
+ []
+
+
+Overfull \hbox (23.88895pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 gated
+ []
+
+
+Overfull \hbox (28.91672pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 ledger,
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (19.16672pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 they
+ []
+
+
+Overfull \hbox (27.27782pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 record
+ []
+
+
+Overfull \hbox (14.44449pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 not
+ []
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 all
+ []
+
+
+Overfull \hbox (25.63893pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 trans-
+ []
+
+
+Overfull \hbox (12.77779pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 ac-
+ []
+
+
+Overfull \hbox (21.16672pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 tions
+ []
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 on
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (20.00005pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 pub-
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 lic
+ []
+
+
+Overfull \hbox (48.61122pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 blockchain,
+ []
+
+
+Overfull \hbox (13.61113pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 be-
+ []
+
+
+Overfull \hbox (23.38892pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 cause
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (10.83334pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 ef-
+ []
+
+
+Overfull \hbox (8.8889pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 fi-
+ []
+
+
+Overfull \hbox (26.94449pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 ciency
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 la-
+ []
+
+
+Overfull \hbox (23.61116pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 tency
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 rea-
+ []
+
+
+Overfull \hbox (21.22226pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 sons.
+ []
+
+
+Overfull \hbox (14.77779pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 As-
+ []
+
+
+Overfull \hbox (16.75002pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 sur-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (11.66669pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (28.91673pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 tegrity
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 au-
+ []
+
+
+Overfull \hbox (22.77782pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 then-
+ []
+
+
+Overfull \hbox (14.44446pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 tic-
+ []
+
+
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 ity
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (16.72223pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 seg-
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 re-
+ []
+
+
+Overfull \hbox (23.88895pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 gated
+ []
+
+
+Overfull \hbox (26.13893pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 ledger
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (11.72221pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 es-
+ []
+
+
+Overfull \hbox (17.27779pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 sen-
+ []
+
+
+Overfull \hbox (14.44449pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 tial
+ []
+
+
+Overfull \hbox (18.36116pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 part
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (11.72221pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 se-
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 cu-
+ []
+
+
+Overfull \hbox (15.58337pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 rity
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (20.58337pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 their
+ []
+
+
+Overfull \hbox (21.1667pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 busi-
+ []
+
+
+Overfull \hbox (20.66669pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 ness.
+ []
+
+
+Overfull \hbox (12.50002pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 In-
+ []
+
+
+Overfull \hbox (16.13892pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 tro-
+ []
+
+
+Overfull \hbox (18.88892pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 duc-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (25.63893pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 trans-
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 par-
+ []
+
+
+Overfull \hbox (13.61113pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 ent
+ []
+
+
+Overfull \hbox (18.88892pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 way,
+ []
+
+
+Overfull \hbox (19.22224pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 such
+ []
+
+
+Overfull \hbox (8.94446pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 as
+ []
+
+
+Overfull \hbox (22.52782pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 cryp-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 to-
+ []
+
+
+Overfull \hbox (32.25008pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 graphic
+ []
+
+
+Overfull \hbox (26.72226pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 times-
+ []
+
+
+Overfull \hbox (25.55563pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 tamp,
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (12.27779pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 as-
+ []
+
+
+Overfull \hbox (17.86113pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 sure
+ []
+
+
+Overfull \hbox (19.22224pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 such
+ []
+
+
+Overfull \hbox (21.97224pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 char-
+ []
+
+
+Overfull \hbox (12.77779pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 ac-
+ []
+
+
+Overfull \hbox (15.58334pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 ter-
+ []
+
+
+Overfull \hbox (10.05556pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 is-
+ []
+
+
+Overfull \hbox (15.05557pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 tics
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (32.77783pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/10 needed. 
+ []
+
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 12.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 12.
+
+./sec5.tex:12: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1]
+
+./sec5.tex:13: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13  \item[Muti-signature:]
+                            
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.50006pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 Multi-
+ []
+
+
+Overfull \hbox (40.08342pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 signature
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 ma-
+ []
+
+
+Overfull \hbox (11.97226pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 jor
+ []
+
+
+Overfull \hbox (21.3889pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 tech-
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 nol-
+ []
+
+
+Overfull \hbox (15.27783pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 ogy
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (23.05562pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 avoid
+ []
+
+
+Overfull \hbox (15.66669pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 loss
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (17.27779pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 cus-
+ []
+
+
+Overfull \hbox (32.30562pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 tomers'
+ []
+
+
+Overfull \hbox (12.27779pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 as-
+ []
+
+
+Overfull \hbox (12.27779pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 set
+ []
+
+
+Overfull \hbox (22.77782pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 when
+ []
+
+
+Overfull \hbox (15.66669pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 loss
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (15.00003pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 one
+ []
+
+
+Overfull \hbox (8.91669pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 or
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 mi-
+ []
+
+
+Overfull \hbox (14.47226pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 nor
+ []
+
+
+Overfull \hbox (18.36116pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 part
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (18.6667pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 keys
+ []
+
+
+Overfull \hbox (13.05557pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 oc-
+ []
+
+
+Overfull \hbox (20.63892pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 curs. 
+ []
+
+
+./sec5.tex:17: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...derlying cryptography and implementation:]
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 HSM
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (21.19449pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 trust
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 an-
+ []
+
+
+Overfull \hbox (18.63892pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 chor
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (22.52782pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 cryp-
+ []
+
+
+Overfull \hbox (26.41672pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 tocur-
+ []
+
+
+Overfull \hbox (23.63893pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 rency
+ []
+
+
+Overfull \hbox (13.05557pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 ex-
+ []
+
+
+Overfull \hbox (32.50006pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 change.
+ []
+
+
+Overfull \hbox (9.16669pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 In
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 gen-
+ []
+
+
+Overfull \hbox (18.9167pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 eral,
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 HSM
+ []
+
+
+Overfull \hbox (18.38892pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 sup-
+ []
+
+
+Overfull \hbox (22.58339pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 ports
+ []
+
+
+Overfull \hbox (21.72226pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 stan-
+ []
+
+
+Overfull \hbox (20.02783pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 dard
+ []
+
+
+Overfull \hbox (22.52782pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 cryp-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 to-
+ []
+
+
+Overfull \hbox (32.25008pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 graphic
+ []
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 al-
+ []
+
+
+Overfull \hbox (13.33336pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 go-
+ []
+
+
+Overfull \hbox (31.19452pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 rithms.
+ []
+
+
+Overfull \hbox (22.7778pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 How-
+ []
+
+
+Overfull \hbox (20.58336pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 ever,
+ []
+
+
+Overfull \hbox (22.52782pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 cryp-
+ []
+
+
+Overfull \hbox (26.41672pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 tocur-
+ []
+
+
+Overfull \hbox (23.63893pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 rency
+ []
+
+
+Overfull \hbox (18.33339pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 may
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 im-
+ []
+
+
+Overfull \hbox (16.11113pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 ple-
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 ment
+ []
+
+
+Overfull \hbox (17.55557pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 spe-
+ []
+
+
+Overfull \hbox (15.00003pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 cial
+ []
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 al-
+ []
+
+
+Overfull \hbox (13.33336pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 go-
+ []
+
+
+Overfull \hbox (24.47229pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 rithm
+ []
+
+
+Overfull \hbox (8.91669pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 or
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 pa-
+ []
+
+
+Overfull \hbox (20.58337pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 ram-
+ []
+
+
+Overfull \hbox (7.77777pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 e-
+ []
+
+
+Overfull \hbox (12.25002pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 ter
+ []
+
+
+Overfull \hbox (8.94446pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 as
+ []
+
+
+Overfull \hbox (23.36115pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 curve
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (24.02782pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 ECC.
+ []
+
+
+Overfull \hbox (23.33339pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 Stan-
+ []
+
+
+Overfull \hbox (23.36116pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 dard-
+ []
+
+
+Overfull \hbox (15.55557pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 iza-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 un-
+ []
+
+
+Overfull \hbox (17.25002pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 der-
+ []
+
+
+Overfull \hbox (11.38892pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 ly-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (22.52782pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 cryp-
+ []
+
+
+Overfull \hbox (17.22226pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 tog-
+ []
+
+
+Overfull \hbox (12.25002pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 ra-
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 phy
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (11.72221pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 se-
+ []
+
+
+Overfull \hbox (18.8889pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 lect-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 HSM
+ []
+
+
+Overfull \hbox (25.27782pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 which
+ []
+
+
+Overfull \hbox (18.38892pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 sup-
+ []
+
+
+Overfull \hbox (22.58339pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 ports
+ []
+
+
+Overfull \hbox (21.69449pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 more
+ []
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 al-
+ []
+
+
+Overfull \hbox (13.33336pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 go-
+ []
+
+
+Overfull \hbox (28.41673pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 rithms
+ []
+
+
+Overfull \hbox (13.36113pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 are
+ []
+
+
+Overfull \hbox (32.77783pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 needed. 
+ []
+
+
+./sec5.tex:23: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23  \item[Kay management and wallet:]
+                                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (22.00005pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 Most
+ []
+
+
+Overfull \hbox (22.52782pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 cryp-
+ []
+
+
+Overfull \hbox (26.41672pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 tocur-
+ []
+
+
+Overfull \hbox (23.63893pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 rency
+ []
+
+
+Overfull \hbox (13.05557pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 ex-
+ []
+
+
+Overfull \hbox (33.66672pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 changes
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 man-
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 age
+ []
+
+
+Overfull \hbox (12.27779pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 as-
+ []
+
+
+Overfull \hbox (16.22223pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 sets
+ []
+
+
+Overfull \hbox (12.83334pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 us-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (14.44449pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 hot
+ []
+
+
+Overfull \hbox (18.05557pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 wal-
+ []
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 let
+ []
+
+
+Overfull \hbox (11.97226pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 for
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 on-
+ []
+
+
+Overfull \hbox (15.55559pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 line
+ []
+
+
+Overfull \hbox (25.63893pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 trans-
+ []
+
+
+Overfull \hbox (12.77779pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 ac-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (17.77782pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 cold
+ []
+
+
+Overfull \hbox (18.05557pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 wal-
+ []
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 let
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 pro-
+ []
+
+
+Overfull \hbox (16.66669pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 tect
+ []
+
+
+Overfull \hbox (18.6667pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 keys
+ []
+
+
+Overfull \hbox (20.30562pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 from
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 at-
+ []
+
+
+Overfull \hbox (18.33337pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 tack
+ []
+
+
+Overfull \hbox (20.30562pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 from
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 net-
+ []
+
+
+Overfull \hbox (23.91672pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 work.
+ []
+
+
+Overfull \hbox (14.61115pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 For
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 on-
+ []
+
+
+Overfull \hbox (15.55559pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 line
+ []
+
+
+Overfull \hbox (18.05557pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 wal-
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 let,
+ []
+
+
+Overfull \hbox (15.55559pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 uti-
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 liz-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (16.13889pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 cer-
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (8.8889pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 fi-
+ []
+
+
+Overfull \hbox (12.77779pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 ca-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 pro-
+ []
+
+
+Overfull \hbox (22.25006pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 gram
+ []
+
+
+Overfull \hbox (15.00003pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 like
+ []
+
+
+Overfull \hbox (22.50006pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 FIPS
+ []
+
+
+Overfull \hbox (18.33337pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 140-
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 2
+ []
+
+
+Overfull \hbox (8.91669pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 or
+ []
+
+
+Overfull \hbox (30.6945pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 CMVP
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (23.63895pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 prod-
+ []
+
+
+Overfull \hbox (17.83336pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 ucts
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 with
+ []
+
+
+Overfull \hbox (19.22224pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 such
+ []
+
+
+Overfull \hbox (16.13889pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 cer-
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (8.8889pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 fi-
+ []
+
+
+Overfull \hbox (12.77779pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 ca-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (32.77783pt too wide) in paragraph at lines 24--27
+\OT1/cmr/m/n/10 needed. 
+ []
+
+
+./sec5.tex:28: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28  \item[Audit:]
+                    Internal audit and third party audit is needed to provid...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (34.47229pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 Internal
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 au-
+ []
+
+
+Overfull \hbox (12.22226pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 dit
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (21.6945pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 third
+ []
+
+
+Overfull \hbox (23.36118pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 party
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 au-
+ []
+
+
+Overfull \hbox (12.22226pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 dit
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (30.00005pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 needed
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 pro-
+ []
+
+
+Overfull \hbox (18.0556pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 vide
+ []
+
+
+Overfull \hbox (25.63893pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 trans-
+ []
+
+
+Overfull \hbox (34.19452pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 parency
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (17.27779pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 cus-
+ []
+
+
+Overfull \hbox (29.52783pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 tomers
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 reg-
+ []
+
+
+Overfull \hbox (8.8889pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 u-
+ []
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 la-
+ []
+
+
+Overfull \hbox (19.52782pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 tors.
+ []
+
+
+Overfull \hbox (23.88889pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 Tech-
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 nol-
+ []
+
+
+Overfull \hbox (15.27783pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 ogy
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (22.77783pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 make
+ []
+
+
+Overfull \hbox (19.22224pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 such
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 au-
+ []
+
+
+Overfull \hbox (12.22226pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 dit
+ []
+
+
+Overfull \hbox (18.6667pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 easy
+ []
+
+
+Overfull \hbox (19.22224pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 such
+ []
+
+
+Overfull \hbox (8.94446pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 as
+ []
+
+
+Overfull \hbox (22.52782pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 cryp-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 to-
+ []
+
+
+Overfull \hbox (32.25008pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 graphic
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 time
+ []
+
+
+Overfull \hbox (26.72229pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 stamp
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (32.77783pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 needed. 
+ []
+
+
+./sec5.tex:31: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31  \item[External evaluation:]
+                                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./sec5.tex:34: LaTeX Error: \begin{document} ended by \end{description}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \end{description}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (11.3889pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 To
+ []
+
+
+Overfull \hbox (19.47224pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 clar-
+ []
+
+
+Overfull \hbox (11.11116pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 ify
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (11.72221pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 se-
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 cu-
+ []
+
+
+Overfull \hbox (15.58337pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 rity
+ []
+
+
+Overfull \hbox (19.44447pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 level
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 im-
+ []
+
+
+Overfull \hbox (16.11113pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 ple-
+ []
+
+
+Overfull \hbox (21.6667pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 men-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 ta-
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 tion,
+ []
+
+
+Overfull \hbox (16.13889pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 cer-
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (8.8889pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 fi-
+ []
+
+
+Overfull \hbox (12.77779pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 ca-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (8.94446pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 as
+ []
+
+
+Overfull \hbox (21.11115pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 com-
+ []
+
+
+Overfull \hbox (18.88895pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 mon
+ []
+
+
+Overfull \hbox (14.47223pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 cri-
+ []
+
+
+Overfull \hbox (11.66667pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 te-
+ []
+
+
+Overfull \hbox (11.69447pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 ria
+ []
+
+
+Overfull \hbox (43.47232pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 (ISO/IEC
+ []
+
+
+Overfull \hbox (28.88898pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 15048)
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (32.77783pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 needed.
+ []
+
+
+Overfull \hbox (14.08334pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 Es-
+ []
+
+
+Overfull \hbox (17.77782pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 tab-
+ []
+
+
+Overfull \hbox (18.38892pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 lish-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 pro-
+ []
+
+
+Overfull \hbox (16.11111pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 tec-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 pro-
+ []
+
+
+Overfull \hbox (12.7778pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 file
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (21.6667pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 help-
+ []
+
+
+Overfull \hbox (11.38893pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 ful
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 duct
+ []
+
+
+Overfull \hbox (13.05557pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 ex-
+ []
+
+
+Overfull \hbox (15.58334pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 ter-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 nal
+ []
+
+
+Overfull \hbox (20.27782pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 eval-
+ []
+
+
+Overfull \hbox (8.8889pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 u-
+ []
+
+
+Overfull \hbox (8.33334pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 a-
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 tion.
+ []
+
+./sec5.tex:36: Undefined control sequence.
+l.36 \subsection
+                {Required operations}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./sec5.tex:36: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \subsection{R
+                  equired operations}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (59.33339pt too wide) in paragraph at lines 36--37
+[]\OT1/cmr/m/n/10 Required
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 36--37
+\OT1/cmr/m/n/10 op-
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 36--37
+\OT1/cmr/m/n/10 er-
+ []
+
+
+Overfull \hbox (8.33334pt too wide) in paragraph at lines 36--37
+\OT1/cmr/m/n/10 a-
+ []
+
+
+Overfull \hbox (21.16672pt too wide) in paragraph at lines 36--37
+\OT1/cmr/m/n/10 tions 
+ []
+
+
+./sec5.tex:38: LaTeX Error: Environment description undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \begin{description}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sec5.tex:39: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39  \item[Basics of key management]
+                                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (9.16669pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 In
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 gen-
+ []
+
+
+Overfull \hbox (16.13892pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 eral
+ []
+
+
+Overfull \hbox (15.58336pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 pri-
+ []
+
+
+Overfull \hbox (18.0556pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 vate
+ []
+
+
+Overfull \hbox (22.52782pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 cryp-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 to-
+ []
+
+
+Overfull \hbox (32.25008pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 graphic
+ []
+
+
+Overfull \hbox (21.44449pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 keys.
+ []
+
+
+Overfull \hbox (28.38896pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 should
+ []
+
+
+Overfull \hbox (10.2778pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 be
+ []
+
+
+Overfull \hbox (15.05557pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 iso-
+ []
+
+
+Overfull \hbox (21.66672pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 lated
+ []
+
+
+Overfull \hbox (20.30562pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 from
+ []
+
+
+Overfull \hbox (22.8056pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 other
+ []
+
+
+Overfull \hbox (11.66669pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (15.30559pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 for-
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 ma-
+ []
+
+
+Overfull \hbox (25.00008pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 tional
+ []
+
+
+Overfull \hbox (12.27779pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 as-
+ []
+
+
+Overfull \hbox (19.00002pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 sets,
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (22.50005pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 num-
+ []
+
+
+Overfull \hbox (14.19447pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 ber
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (12.77779pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 ac-
+ []
+
+
+Overfull \hbox (16.77777pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 cess
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (15.58336pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 pri-
+ []
+
+
+Overfull \hbox (18.0556pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 vate
+ []
+
+
+Overfull \hbox (18.6667pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 keys
+ []
+
+
+Overfull \hbox (28.38896pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 should
+ []
+
+
+Overfull \hbox (10.2778pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 be
+ []
+
+
+Overfull \hbox (17.22226pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 lim-
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 ited
+ []
+
+
+Overfull \hbox (8.94446pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 as
+ []
+
+
+Overfull \hbox (20.00005pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 min-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (21.9445pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 mum
+ []
+
+
+Overfull \hbox (8.94446pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 as
+ []
+
+
+Overfull \hbox (18.11115pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 pos-
+ []
+
+
+Overfull \hbox (10.05556pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 si-
+ []
+
+
+Overfull \hbox (12.7778pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 ble
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (10.2778pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 be
+ []
+
+
+Overfull \hbox (17.25002pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 pre-
+ []
+
+
+Overfull \hbox (24.47227pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 pared
+ []
+
+
+Overfull \hbox (11.97226pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 for
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 un-
+ []
+
+
+Overfull \hbox (11.66669pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 ten-
+ []
+
+
+Overfull \hbox (25.00008pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 tional
+ []
+
+
+Overfull \hbox (15.61115pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 lost
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (15.58336pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 pri-
+ []
+
+
+Overfull \hbox (18.0556pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 vate
+ []
+
+
+Overfull \hbox (21.44449pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 keys.
+ []
+
+
+Overfull \hbox (25.58336pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 Three
+ []
+
+
+Overfull \hbox (11.72221pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 se-
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 cu-
+ []
+
+
+Overfull \hbox (15.58337pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 rity
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (19.52782pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 trols
+ []
+
+
+Overfull \hbox (8.94446pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 as
+ []
+
+
+Overfull \hbox (22.77783pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 State
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 man-
+ []
+
+
+Overfull \hbox (17.7778pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 age-
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 ment
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (15.58336pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 pri-
+ []
+
+
+Overfull \hbox (18.0556pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 vate
+ []
+
+
+Overfull \hbox (21.44449pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 keys,
+ []
+
+
+Overfull \hbox (16.38892pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 Ad-
+ []
+
+
+Overfull \hbox (20.00005pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 min-
+ []
+
+
+Overfull \hbox (10.05556pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 is-
+ []
+
+
+Overfull \hbox (16.13892pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 tra-
+ []
+
+
+Overfull \hbox (12.80559pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 tor
+ []
+
+
+Overfull \hbox (16.13892pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 role
+ []
+
+
+Overfull \hbox (17.27779pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 sep-
+ []
+
+
+Overfull \hbox (8.33334pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 a-
+ []
+
+
+Overfull \hbox (12.25002pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 ra-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (16.94447pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 mu-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 tual
+ []
+
+
+Overfull \hbox (26.94446pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 check-
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 and-
+ []
+
+
+Overfull \hbox (32.77785pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 balance
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (32.63898pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 Backup
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (15.58336pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 pri-
+ []
+
+
+Overfull \hbox (18.0556pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 vate
+ []
+
+
+Overfull \hbox (14.72226pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 key
+ []
+
+
+Overfull \hbox (13.36113pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 are
+ []
+
+
+Overfull \hbox (32.77783pt too wide) in paragraph at lines 41--51
+\OT1/cmr/m/n/10 needed. 
+ []
+
+
+./sec5.tex:62: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62  \item[Backup]
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (32.63898pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 Backup
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (21.16672pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 most
+ []
+
+
+Overfull \hbox (17.50005pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 fun-
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 da-
+ []
+
+
+Overfull \hbox (21.6667pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 men-
+ []
+
+
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 tal
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (10.83334pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 ef-
+ []
+
+
+Overfull \hbox (15.27779pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 fec-
+ []
+
+
+Overfull \hbox (16.11115pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 tive
+ []
+
+
+Overfull \hbox (21.11115pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 mea-
+ []
+
+
+Overfull \hbox (17.86113pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 sure
+ []
+
+
+Overfull \hbox (31.16675pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 against
+ []
+
+
+Overfull \hbox (15.61115pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 lost
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (20.61115pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 sign-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 key.
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 On
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (22.8056pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 other
+ []
+
+
+Overfull \hbox (24.44452pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 hand,
+ []
+
+
+Overfull \hbox (22.25003pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 there
+ []
+
+
+Overfull \hbox (13.36113pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 are
+ []
+
+
+Overfull \hbox (19.86115pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 risks
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (20.83337pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 leak-
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 age
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (15.61115pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 lost
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (31.11119pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 backup
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 de-
+ []
+
+
+Overfull \hbox (19.72226pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 vice.
+ []
+
+
+Overfull \hbox (25.61113pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 These
+ []
+
+
+Overfull \hbox (19.86115pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 risks
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 de-
+ []
+
+
+Overfull \hbox (21.38895pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 pend
+ []
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 on
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (19.16673pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 kind
+ []
+
+
+Overfull \hbox (31.11119pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 backup
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 de-
+ []
+
+
+Overfull \hbox (19.72226pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 vice,
+ []
+
+
+Overfull \hbox (18.6667pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 thus
+ []
+
+
+Overfull \hbox (11.72221pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 se-
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 cu-
+ []
+
+
+Overfull \hbox (15.58337pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 rity
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (19.52782pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 trols
+ []
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 on
+ []
+
+
+Overfull \hbox (19.22224pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 such
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 de-
+ []
+
+
+Overfull \hbox (20.88892pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 vices
+ []
+
+
+Overfull \hbox (28.38896pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 should
+ []
+
+
+Overfull \hbox (10.2778pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 be
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (15.61113pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 sid-
+ []
+
+
+Overfull \hbox (18.36113pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 ered
+ []
+
+
+Overfull \hbox (11.66669pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 de-
+ []
+
+
+Overfull \hbox (19.1667pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 pen-
+ []
+
+
+Overfull \hbox (29.16673pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 dently.
+ []
+
+
+Overfull \hbox (21.11115pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 Typ-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 cal
+ []
+
+
+Overfull \hbox (20.88892pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 ways
+ []
+
+
+Overfull \hbox (13.36113pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 are
+ []
+
+
+Overfull \hbox (33.88898pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 Cloning
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (34.75008pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 tamper-
+ []
+
+
+Overfull \hbox (37.08339pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 resistant
+ []
+
+
+Overfull \hbox (22.52782pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 cryp-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 to-
+ []
+
+
+Overfull \hbox (32.25008pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 graphic
+ []
+
+
+Overfull \hbox (14.72226pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 key
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 man-
+ []
+
+
+Overfull \hbox (17.7778pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 age-
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 ment
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 de-
+ []
+
+
+Overfull \hbox (19.72226pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 vice,
+ []
+
+
+Overfull \hbox (32.63898pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 Backup
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (20.08336pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 stor-
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 age
+ []
+
+
+Overfull \hbox (11.97226pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 for
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 dig-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 tal
+ []
+
+
+Overfull \hbox (19.4445pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 data
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (32.63898pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 Backup
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 pa-
+ []
+
+
+Overfull \hbox (16.97226pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 per. 
+ []
+
+
+./sec5.tex:78: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78  \item[Offline management]
+                               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (25.58336pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 There
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (19.16672pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 type
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (11.38892pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 of-
+ []
+
+
+Overfull \hbox (18.33337pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 fline
+ []
+
+
+Overfull \hbox (14.72226pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 key
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 man-
+ []
+
+
+Overfull \hbox (17.7778pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 age-
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 ment
+ []
+
+
+Overfull \hbox (12.83336pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 (as
+ []
+
+
+Overfull \hbox (28.3334pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 known
+ []
+
+
+Overfull \hbox (8.94446pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 as
+ []
+
+
+Overfull \hbox (22.77783pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 "cold
+ []
+
+
+Overfull \hbox (18.05557pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 wal-
+ []
+
+
+Overfull \hbox (20.00005pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 let")
+ []
+
+
+Overfull \hbox (25.27782pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 which
+ []
+
+
+Overfull \hbox (15.05557pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 iso-
+ []
+
+
+Overfull \hbox (20.05559pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 lates
+ []
+
+
+Overfull \hbox (15.58336pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 pri-
+ []
+
+
+Overfull \hbox (18.0556pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 vate
+ []
+
+
+Overfull \hbox (18.6667pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 keys
+ []
+
+
+Overfull \hbox (20.30562pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 from
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (16.50002pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 sys-
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 tem
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 net-
+ []
+
+
+Overfull \hbox (21.13893pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 work
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (17.25002pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 pre-
+ []
+
+
+Overfull \hbox (18.61115pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 vent
+ []
+
+
+Overfull \hbox (20.83337pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 leak-
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 age
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (20.83339pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 theft
+ []
+
+
+Overfull \hbox (28.94449pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 caused
+ []
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 by
+ []
+
+
+Overfull \hbox (11.66669pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (16.69447pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 tru-
+ []
+
+
+Overfull \hbox (20.0556pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 sion. 
+ []
+
+
+./sec5.tex:83: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83  \item[Distributed management]
+                                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./sec5.tex:85: LaTeX Error: \begin{document} ended by \end{description}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85 \end{description}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (7.50002pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 It
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (16.72226pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 also
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (21.11119pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 good
+ []
+
+
+Overfull \hbox (11.72221pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 se-
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 cu-
+ []
+
+
+Overfull \hbox (15.58337pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 rity
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (15.58337pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 trol
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (15.61113pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 dis-
+ []
+
+
+Overfull \hbox (30.02785pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 tribute
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (20.86116pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 right
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (13.94446pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 use
+ []
+
+
+Overfull \hbox (15.58336pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 pri-
+ []
+
+
+Overfull \hbox (18.0556pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 vate
+ []
+
+
+Overfull \hbox (14.72226pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 key
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (19.72226pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 mul-
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (12.7778pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 ple
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 en-
+ []
+
+
+Overfull \hbox (17.50005pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 tity.
+ []
+
+
+Overfull \hbox (25.58336pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 There
+ []
+
+
+Overfull \hbox (13.36113pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 are
+ []
+
+
+Overfull \hbox (15.55557pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 two
+ []
+
+
+Overfull \hbox (13.05557pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 ex-
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 am-
+ []
+
+
+Overfull \hbox (19.50003pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 ples;
+ []
+
+
+Overfull \hbox (11.66669pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 di-
+ []
+
+
+Overfull \hbox (11.38892pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 vi-
+ []
+
+
+Overfull \hbox (17.27782pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 sion
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (11.72221pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 se-
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 cret
+ []
+
+
+Overfull \hbox (14.72226pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 key
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (26.38895pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 multi-
+ []
+
+
+Overfull \hbox (42.8612pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/10 signature.
+ []
+
+./sec5.tex:121: Undefined control sequence.
+l.121 \subsection
+                 {Toward standardization}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./sec5.tex:121: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 \subsection{T
+                   oward standardization}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (52.52782pt too wide) in paragraph at lines 121--122
+[]\OT1/cmr/m/n/10 Toward
+ []
+
+
+Overfull \hbox (21.72226pt too wide) in paragraph at lines 121--122
+\OT1/cmr/m/n/10 stan-
+ []
+
+
+Overfull \hbox (23.36116pt too wide) in paragraph at lines 121--122
+\OT1/cmr/m/n/10 dard-
+ []
+
+
+Overfull \hbox (15.55557pt too wide) in paragraph at lines 121--122
+\OT1/cmr/m/n/10 iza-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 121--122
+\OT1/cmr/m/n/10 tion 
+ []
+
+
+./sec5.tex:125: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125 T
+       hough it is too early to define some technology and operational stand...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+! Emergency stop.
+<*> sec5.tex
+            
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 6 strings out of 493237
+ 52 string characters out of 6144379
+ 81293 words of memory out of 5000000
+ 4075 multiletter control sequences out of 15000+600000
+ 6281 words of font info for 32 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 18i,4n,8p,657b,128s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on sec5.dvi (1 page, 976 bytes).
